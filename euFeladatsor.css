@@ -1,0 +1,36 @@
+#euTablazat td,th{
+    text-align: center;
+}
+
+#euTablazat td{
+    padding: 10px;
+}
+
+
+#feladatTitleBox{
+    display: flex;
+    justify-content: center;
+}
+
+
+#feladatok button{
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+
+
+.feladat{
+    margin: 15px;
+}
+
+.feladat:hover{
+    cursor: pointer;
+    color: grey;
+}
+
+
+.feladatBlokk{
+    text-align: center;
+    display: none;
+    margin-bottom: 50px;
+}
